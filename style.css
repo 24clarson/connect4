@@ -1,0 +1,21 @@
+#field {
+  display: grid;
+  grid-template-rows: 50px 50px 50px 50px 50px 50px;
+  grid-template-columns: 50px 50px 50px 50px 50px 50px 50px;
+}
+
+.square {
+  border: 2px solid black;
+}
+
+.color-1 {
+  background-color: yellow;
+}
+
+.color0 {
+  background-color: white;
+}
+
+.color1 {
+  background-color: red;
+}
